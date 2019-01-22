@@ -3,7 +3,7 @@ uniqname: {{ your uniqname here }}
 
 ## Question 1
 ``` 1
-{{ answer to Q1 here }}
+{{ Guest additions are a collection of device drivers that are designed to achieve closer integration between the host and operating system. }}
 ```
 
 ## Question 2
