@@ -3,7 +3,7 @@ uniqname: {{ your uniqname here }}
 
 ## Question 1
 ``` 1
-{{ Guest additions are a collection of device drivers that are designed to achieve closer integration between the host and operating system. }}
+{{ Guest additions are a collection of device drivers that are designed to achieve closer integration between the host and operating system. After installing them, I was able to copy and paste items from my VM to my local machine, and vice versa.}}
 ```
 
 ## Question 2
