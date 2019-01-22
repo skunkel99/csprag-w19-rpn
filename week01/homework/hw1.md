@@ -8,7 +8,7 @@ uniqname: {{ your uniqname here }}
 
 ## Question 2
 ``` 2
-{{ answer to Q2 here }}
+{{ I think that my computing experience thus far has aligned more with Unix culture because in most of my codingprojects and classes, we have been developing code for other programmers. I feel that I focus more on developingcode that is efficient and usable, rather than easy to understand for the people that will be using it. So far, I have been more focused on writing code that works for my classes than writing something that is usable for other people,because that is not our end goal. }}
 ```
 
 ## Question 3
