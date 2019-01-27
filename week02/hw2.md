@@ -476,30 +476,69 @@ uniqname:  skunkel
 
 ## Question 2
 ``` 2
-answer_to_Q2_here
+git diff
 ```
 
 ## Question 3
 ``` 3
-answer_to_Q3_here
+commit 3d6ffedf2858ccc9eb6eb0e4516d3e13f004a571
+Author: skunkel <skunkel@umich.edu>
+Date:   Sun Jan 27 18:44:14 2019 -0500
+
+    commit
+
+diff --git a/Binary_tree.cpp b/Binary_tree.cpp
+new file mode 100644
+index 0000000..e725b5f
+--- /dev/null
++++ b/Binary_tree.cpp
+@@ -0,0 +1,496 @@
++/*
++ * Binary_tree.h
++ *
++ *  Created on: Feb 2, 2014
++ *      Author: James Perretta
++ *       Email: jameslp@umich.edu
++ */
++
++#include "Binary_tree.h"
++
++#include <cassert>
++
++#include <iostream>
++#include <iomanip>
++#include <string>
++#include <sstream>
++#include <cmath> // pow
++#include <set>
++#include <stack> // used in get_max_elt_width()
++
++using std::cout;
++using std::endl;
++
++using std::string;
++using std::ostream;
++using std::ostringstream;
++using std::setw;
++using std::left;
 ```
 
 ## Question 4
 ``` 4
-answer_to_Q4_here
+Git opened a vi text editor.
 ```
 
 ## Question 5
 ``` 5
-answer_to_Q5_here
+Git opened an emacs text editor.
 ```
 
 ## Question 6
 ``` 6
-answer_to_Q6_here
+The -nw flag allows you to type in the text editor. When there is no -nw flag, you cannot type normally in the editor and must use type preset messages (y, n, ?).
 ```
 
 ## Question 7
 ``` 7
-answer_to_Q7_here
+The value that you set GIT_EDITOR to takes priority over the value you set EDITOR to.
 ```
