@@ -8,12 +8,12 @@ The command mkdir used to work, but stopped working when I set the Path to be em
 
 ## Question 2
 ``` 2
-answer_to_Q2_here
+Mkdir will create the directory in the directory of the given path only if the path already exists. Otherwise, mkdir will quit with an error message. Therefore, you cannot use mkdir if the path is empty, or does not exist. 
 ```
 
 ## Question 3
 ``` 3
-The command pwd still works after reseting the path. It still works because IDK.
+The command pwd still works after reseting the path. pwd is a built in command, therefore still works when there is an empty path. Since it is built in and not based on the environment variable, pwd still works with an empty path; however, path is an evironment variable that shows which directories the shell can search to find a command that was typed.
 ```
 
 ## Question 4
