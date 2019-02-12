@@ -26,11 +26,6 @@ To access the next error, type :cn, and to get to the previous error, type :cp.
 type control v to put it in visual mode, then type jjjj to highlight the lines, then type shift I to put it in edit mode, then #, then esc.
 ```
 
-## Question 5
-``` 5
-answer_to_Q5_here
-```
-
 ## Question 6a
 ``` 6a
 Type % to jump between balanced parentheses.
