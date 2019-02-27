@@ -44,7 +44,7 @@ sort <(cat american-english cracklib-small) | uniq -d | wc -l
 
 ## Question 9
 ``` 9
-The command  grep -v ' \*' returns all files that do not contai, space \ followed by any other character, in them (the -v  creates a list of all of the excluded files)
+The command  grep -v ' \*' returns all files that do not contain the follwing phrase, space \ followed by any other character, in them.  
 
 ```
 
