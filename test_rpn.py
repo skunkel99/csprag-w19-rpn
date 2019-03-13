@@ -18,3 +18,7 @@ class TestBasics(unittest.TestCase):
     def test_exponentiation(self):
         result = rpn.calculate("3 3 ^")
         self.assertEqual(27, result)
+    def test_percent(self):
+        result = rpn.calculate("72 − 20%")
+        self.assertEqual(57.6)
+
