@@ -10,6 +10,7 @@ operators = {
     '/': operator.truediv,
     '^': operator.pow,
     '%': (operator.mul) / 100,
+    '\': operator.floordiv,
 }
 
 def calculate(myarg):
