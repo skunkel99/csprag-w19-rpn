@@ -9,11 +9,6 @@ operators = {
     '*': operator.mul,
     '/': operator.truediv,
     '^': operator.pow,
-    '%': (operator.mul) / 100,
-    '\': operator.floordiv,
-    'and': operator.and_,
-    'or': operator.or_,
-    'not': operator.neg,
 }
 
 def calculate(myarg):
