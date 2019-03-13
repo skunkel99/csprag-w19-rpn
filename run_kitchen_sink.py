@@ -126,8 +126,6 @@ class Calculator:
             '*': operator.mul,
             '/': operator.truediv,
             '^': operator.pow,
-            '%': (operator.mul) / 100,
-            '\': operator.floordiv,
             }
 
 
